@@ -1,6 +1,7 @@
 ### Hi, I'm Mark
 
-- 🚀 I’m currently working on Rocketeers app
-- 👨🏻‍🚀 I’m currently learning React
-- 👯 I’m looking to collaborate on Laravel
-- 💬 Ask me about Dev Ops
+- 📍 Entrepeneur [https://vormkracht10.nl](@Vormkracht10)
+- 🚀 I’m currently working on [https://rocketee.rs](Rocketeers)
+- 👨🏻‍🚀 I’m currently enjoy coding in Laravel & React
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me anything about Dev Ops
